@@ -1,4 +1,4 @@
-package ru.job4j.ru.job4j.condition;
+package ru.job4j.condition;
 
 public class SqArea {
     public static double square(int p, double k) {
